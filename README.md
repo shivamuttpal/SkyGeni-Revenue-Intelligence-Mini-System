@@ -2,7 +2,7 @@
 
 A single-page dashboard that helps a CRO (Chief Revenue Officer) understand quarterly revenue performance and identify focus areas.
 
-![Dashboard Preview](./docs/dashboard-preview.png)
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/f163c4c1-f23d-4d22-8caf-93e1bfb12960" />
 
 ## Features
 
